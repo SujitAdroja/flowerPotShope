@@ -1,0 +1,117 @@
+const flowerPot = [
+  {
+    id: 1,
+    name: "Candy Flowerpot",
+    price: "$49.90",
+    type: "flowerpot",
+    img: "img/item9.png",
+    description:
+      "Beautiful hand-made flowerpot with the most gorgeous thick yellow matte glaze. The flowerpot has a hole for drainage. This piece is handmade in stoneware clay and one of a kind.",
+    material: "Stoneware clay; matte glaze.",
+    measurement: "10x10cm",
+    amount: 0,
+    total: 0,
+  },
+  {
+    id: 2,
+    name: "Drop Vase",
+    price: "$40.90",
+    type: "vase",
+    img: "img/item3.png",
+    description:
+      "Gorgeous textured bud vase with a matte ivory glaze. Try using a few as a dining table centerpiece.",
+    material: "Stoneware clay; matte glaze.",
+    measurement: "18x12cm",
+    amount: 0,
+    total: 0,
+  },
+  {
+    id: 3,
+    name: "Sun Vase",
+    type: "vase",
+    price: "$49.90",
+    img: "img/item6.png",
+    description:
+      "Organic textured finish on a striking shape, this vase is one of a kind. Handmade and hand-textured in stoneware clay.",
+    material: "Stoneware clay; matte glaze.",
+    measurement: "15x10cm",
+    amount: 0,
+    total: 0,
+  },
+  {
+    id: 4,
+    name: "Wave Vase",
+    type: "vase",
+    price: "$49.90",
+    img: "img/item5.png",
+    description:
+      "Organic textured finish on a striking shape, this vase is one of a kind. Handmade and hand-textured in stoneware clay.",
+    material: "Stoneware clay; matte glaze.",
+    measurement: "15x10cm",
+    amount: 0,
+    total: 0,
+  },
+  {
+    id: 5,
+    name: "Balance Vase",
+    type: "vase",
+    price: "$69.90",
+    img: "img/item1.png",
+    description:
+      "Beautiful hand-made vase with the most gorgeous thick brown matte glaze. This piece is handmade in stoneware clay and one of a kind.",
+    material: "Stoneware clay; matte glaze.",
+    measurement: "35x20cm",
+    amount: 0,
+    total: 0,
+  },
+  {
+    id: 6,
+    name: "Binoucular Vase",
+    type: "vase",
+    price: "$49.90",
+    img: "img/item8.png",
+    description:
+      "Striking sculptured vase with a gorgeous matte navy glaze. Each piece is handmade with slight variations.",
+    measurement: "32x8cm",
+    amount: 0,
+    total: 0,
+  },
+  {
+    id: 7,
+    name: "Bubble Flowerpot",
+    type: "flowerpot",
+    price: "$49.90",
+    img: "img/item7.png",
+    description:
+      "Beautiful hand-made flowerpot with the most gorgeous thick orange matte glaze. The flowerpot has a hole for drainage.This piece is handmade in stoneware clay and one of a kind.",
+    measurement: "15x15cm",
+    amount: 0,
+    total: 0,
+  },
+  {
+    id: 8,
+    name: "Bulb Vase",
+    type: "vase",
+    price: "$39.90",
+    img: "img/item2.png",
+    description:
+      "A sweet bud vase that’s perfect for layering with other pieces. Handmade and finished in a soft purple-grey glaze.",
+    measurement: "14x14cm",
+    amount: 0,
+    total: 0,
+  },
+  {
+    id: 9,
+    name: "Mango Vase",
+    type: "vase",
+    price: "$49.90",
+    img: "img/item4.png",
+    description:
+      "Tall and sleek, this yellow vase will never go out of style. Handmade in stoneware clay with a matte finish.",
+    measurement: "18x12cm",
+    amount: 0,
+    total: 0,
+  },
+];
+
+export default flowerPot;
